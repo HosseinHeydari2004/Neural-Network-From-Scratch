@@ -142,9 +142,6 @@ If you want to truly understand how neural networks learn, this project is for y
 
 * Convolutional Neural Networks (CNNs)
 * Recurrent Neural Networks (RNNs)
-* Transformers
-* Attention Mechanisms
-* Large Language Models (LLMs)
 
 ---
 
